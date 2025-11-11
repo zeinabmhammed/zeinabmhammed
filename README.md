@@ -24,7 +24,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Graduated from **Faculty of Computers & Information **
-- 💼 Worked at **Bioneers Solutions** (Flutter Developer)
+- 💼 Worked at **Pioneers Solutions** (Flutter Developer)
 - 🌱 Currently focusing on improving my **Flutter, Dart, and Firebase** skills
 - 🎯 Interested in **UI/UX design**, **mobile app performance**, and **clean architecture**
 - 💬 Ask me about **Flutter**, **State Management**, **Firebase**, or **UI Design**
