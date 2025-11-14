@@ -39,14 +39,6 @@
 
 ---
 
-## 🌟 Projects
-
-- 📱 **[My Portfolio App](#)** — Built with Flutter showcasing my work  
-- 🛒 **[E-Commerce UI App](#)** — Modern Flutter UI with Firebase backend  
-- 💬 **[Chat App](#)** — Real-time messaging using Firebase Auth and Cloud Firestore  
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
